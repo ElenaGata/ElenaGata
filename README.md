@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ElenaGata
 - 📚 I’m currently studying a degree in Web Application Development.
-- 🌱 I’m currently learning HTML5, CSS3, SAAS.
+- 🌱 I’m currently learning Wordpress, Divi and Tailwind.
 - 🖥 I’m interested in Web Development.
 - 📫 How to contact with me? elena.gatajimenez@gmail.com
 
