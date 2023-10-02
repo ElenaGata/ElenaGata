@@ -7,7 +7,7 @@
 - 📫 How to contact with me? elena.gatajimenez@gmail.com
 
 Some of my web projects:
-- FilmXtra (Web application development project)
+- <a href="https://github.com/ElenaGata/FilmXtra.git" target="_blank">FilmXtra (Web application development project)</a>
 - <a href="https://mls.grupoplusservices.com/" target="_blank">MLS | Grupo Plus Services</a>
 - <a href="https://mundoextraescolar.com/" target="_blank">Mundo Extraescolar</a>
 - <a href="https://albergueelpilar.com/" target="_blank">Albergue El Pilar</a>
